@@ -1,0 +1,29 @@
+# Python environments and generated files
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*.pyd
+
+# Jupyter and test/tool caches
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+.streamlit/credentials.toml
+*.pem
+*.key
+
+# Operating-system and temporary files
+.DS_Store
+Thumbs.db
+*.log

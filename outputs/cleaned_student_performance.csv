@@ -1,0 +1,101 @@
+Student ID,Gender,Ethnicity,Parental Education,Test Preparation,Math Score,Reading Score,Writing Score,Overall Average,Performance Band
+S001,Male,Group A,Bachelor's Degree,Completed,43,68,68,59.666666666666664,Developing
+S002,Female,Group E,Associate's Degree,Completed,66,75,54,65.0,Proficient
+S003,Male,Group E,Some College,Completed,58,59,89,68.66666666666667,Proficient
+S004,Male,Group C,Associate's Degree,,49,52,54,51.666666666666664,Developing
+S005,Female,Group E,High School,,45,54,35,44.666666666666664,Developing
+S006,Female,Group C,Master's Degree,,53,78,62,64.33333333333333,Proficient
+S007,Male,Group D,Some College,,77,67,58,67.33333333333333,Proficient
+S008,Female,Group C,Some College,,75,53,53,60.333333333333336,Proficient
+S009,Female,Group A,Associate's Degree,,83,47,32,54.0,Developing
+S010,Female,Group A,Some High School,,79,59,65,67.66666666666667,Proficient
+S011,Female,Group C,High School,Completed,84,69,81,78.0,Proficient
+S012,Female,Group D,Master's Degree,,58,73,45,58.666666666666664,Developing
+S013,Female,Group B,Some College,,84,67,64,71.66666666666667,Proficient
+S014,Male,Group B,Master's Degree,,72,46,55,57.666666666666664,Developing
+S015,Female,Group A,Some High School,,60,67,68,65.0,Proficient
+S016,Male,Group E,High School,Completed,67,74,57,66.0,Proficient
+S017,Female,Group C,Master's Degree,,57,36,64,52.333333333333336,Developing
+S018,Male,Group C,Master's Degree,,56,39,52,49.0,Developing
+S019,Female,Group D,High School,,41,61,63,55.0,Developing
+S020,Female,Group A,Bachelor's Degree,,74,51,71,65.33333333333333,Proficient
+S021,Male,Group E,Some College,,55,50,61,55.333333333333336,Developing
+S022,Female,Group C,Some High School,,44,67,38,49.666666666666664,Developing
+S023,Male,Group A,Some High School,,37,63,58,52.666666666666664,Developing
+S024,Female,Group A,Master's Degree,,50,90,51,63.666666666666664,Proficient
+S025,Male,Group A,Bachelor's Degree,Completed,62,66,58,62.0,Proficient
+S026,Male,Group C,High School,,45,58,78,60.333333333333336,Proficient
+S027,Male,Group C,Some College,Completed,72,47,65,61.333333333333336,Proficient
+S028,Female,Group B,Some College,Completed,80,67,68,71.66666666666667,Proficient
+S029,Male,Group A,Some High School,,46,60,60,55.333333333333336,Developing
+S030,Female,Group A,Some High School,Completed,61,57,77,65.0,Proficient
+S031,Male,Group D,Some College,,73,55,57,61.666666666666664,Proficient
+S032,Male,Group E,Some College,,73,50,64,62.333333333333336,Proficient
+S033,Female,Group C,Some High School,Completed,75,50,65,63.333333333333336,Proficient
+S034,Male,Group B,Bachelor's Degree,,34,50,65,49.666666666666664,Developing
+S035,Male,Group A,High School,,70,57,51,59.333333333333336,Developing
+S036,Male,Group C,High School,,58,39,49,48.666666666666664,Developing
+S037,Female,Group B,Bachelor's Degree,Completed,49,64,42,51.666666666666664,Developing
+S038,Male,Group A,High School,,49,70,73,64.0,Proficient
+S039,Female,Group C,High School,Completed,65,53,73,63.666666666666664,Proficient
+S040,Female,Group C,Associate's Degree,,55,64,64,61.0,Proficient
+S041,Female,Group E,Bachelor's Degree,Completed,87,62,69,72.66666666666667,Proficient
+S042,Female,Group E,Some College,,45,44,63,50.666666666666664,Developing
+S043,Male,Group D,Master's Degree,,75,43,49,55.666666666666664,Developing
+S044,Male,Group A,Bachelor's Degree,Completed,97,71,60,76.0,Proficient
+S045,Female,Group D,Some College,Completed,76,53,79,69.33333333333333,Proficient
+S046,Male,Group D,Associate's Degree,,60,46,48,51.333333333333336,Developing
+S047,Male,Group B,Associate's Degree,,56,52,52,53.333333333333336,Developing
+S048,Female,Group D,High School,Completed,50,65,71,62.0,Proficient
+S049,Male,Group E,Some High School,,67,68,69,68.0,Proficient
+S050,Male,Group C,Associate's Degree,,37,48,66,50.333333333333336,Developing
+S051,Female,Group C,High School,,75,42,46,54.333333333333336,Developing
+S052,Female,Group A,Associate's Degree,,43,56,59,52.666666666666664,Developing
+S053,Female,Group A,Bachelor's Degree,,52,67,64,61.0,Proficient
+S054,Male,Group E,Master's Degree,Completed,62,49,80,63.666666666666664,Proficient
+S055,Female,Group D,High School,,72,68,51,63.666666666666664,Proficient
+S056,Male,Group B,Bachelor's Degree,Completed,61,51,57,56.333333333333336,Developing
+S057,Female,Group A,Master's Degree,,40,30,61,43.666666666666664,Developing
+S058,Male,Group E,Master's Degree,,35,59,52,48.666666666666664,Developing
+S059,Female,Group E,High School,,54,68,42,54.666666666666664,Developing
+S060,Male,Group A,Bachelor's Degree,,73,57,73,67.66666666666667,Proficient
+S061,Male,Group E,Associate's Degree,,49,44,50,47.666666666666664,Developing
+S062,Female,Group E,Some College,Completed,77,57,55,63.0,Proficient
+S063,Male,Group E,Bachelor's Degree,Completed,68,65,54,62.333333333333336,Proficient
+S064,Female,Group A,Associate's Degree,Completed,78,52,71,67.0,Proficient
+S065,Female,Group E,Associate's Degree,Completed,62,65,71,66.0,Proficient
+S066,Male,Group B,Master's Degree,Completed,50,72,82,68.0,Proficient
+S067,Male,Group C,Associate's Degree,Completed,69,67,60,65.33333333333333,Proficient
+S068,Male,Group E,Associate's Degree,,63,75,53,63.666666666666664,Proficient
+S069,Female,Group A,Bachelor's Degree,Completed,72,68,86,75.33333333333333,Proficient
+S070,Male,Group D,Master's Degree,Completed,76,85,72,77.66666666666667,Proficient
+S071,Male,Group B,Some High School,Completed,70,75,65,70.0,Proficient
+S072,Female,Group C,High School,Completed,71,59,60,63.333333333333336,Proficient
+S073,Male,Group A,Associate's Degree,Completed,60,80,76,72.0,Proficient
+S074,Female,Group C,Associate's Degree,,57,62,34,51.0,Developing
+S075,Female,Group E,Bachelor's Degree,,58,62,63,61.0,Proficient
+S076,Male,Group B,Some High School,,50,38,61,49.666666666666664,Developing
+S077,Male,Group A,Associate's Degree,Completed,59,47,70,58.666666666666664,Developing
+S078,Female,Group B,Associate's Degree,,71,49,61,60.333333333333336,Proficient
+S079,Male,Group D,High School,Completed,90,61,67,72.66666666666667,Proficient
+S080,Female,Group C,Some High School,Completed,76,65,68,69.66666666666667,Proficient
+S081,Female,Group C,Associate's Degree,,71,62,58,63.666666666666664,Proficient
+S082,Female,Group A,High School,,74,57,73,68.0,Proficient
+S083,Male,Group A,Some High School,,68,70,51,63.0,Proficient
+S084,Female,Group E,High School,Completed,68,50,56,58.0,Developing
+S085,Male,Group C,High School,,43,73,77,64.33333333333333,Proficient
+S086,Female,Group A,Master's Degree,Completed,76,74,49,66.33333333333333,Proficient
+S087,Male,Group B,Associate's Degree,,64,52,57,57.666666666666664,Developing
+S088,Female,Group C,Bachelor's Degree,,54,83,52,63.0,Proficient
+S089,Female,Group D,Associate's Degree,,41,49,41,43.666666666666664,Developing
+S090,Female,Group D,Some High School,,44,56,58,52.666666666666664,Developing
+S091,Male,Group D,Some College,,72,69,38,59.666666666666664,Developing
+S092,Female,Group D,Bachelor's Degree,,70,78,50,66.0,Proficient
+S093,Female,Group B,Bachelor's Degree,Completed,64,53,64,60.333333333333336,Proficient
+S094,Male,Group B,High School,Completed,63,69,79,70.33333333333333,Proficient
+S095,Female,Group D,High School,Completed,65,69,53,62.333333333333336,Proficient
+S096,Female,Group D,Associate's Degree,Completed,71,74,60,68.33333333333333,Proficient
+S097,Male,Group C,Associate's Degree,Completed,60,90,58,69.33333333333333,Proficient
+S098,Male,Group A,Associate's Degree,Completed,88,79,58,75.0,Proficient
+S099,Female,Group C,Bachelor's Degree,Completed,54,73,62,63.0,Proficient
+S100,Female,Group A,Some High School,,64,50,62,58.666666666666664,Developing

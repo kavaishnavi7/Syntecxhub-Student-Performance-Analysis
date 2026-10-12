@@ -1,0 +1,101 @@
+Student ID,Gender,Ethnicity,Parental Education,Test Preparation,Math Score,Reading Score,Writing Score
+S001,Male,Group A,Bachelor's Degree,Completed,43,68,68
+S002,Female,Group E,Associate's Degree,Completed,66,75,54
+S003,Male,Group E,Some College,Completed,58,59,89
+S004,Male,Group C,Associate's Degree,,49,52,54
+S005,Female,Group E,High School,,45,54,35
+S006,Female,Group C,Master's Degree,,53,78,62
+S007,Male,Group D,Some College,,77,67,58
+S008,Female,Group C,Some College,,75,53,53
+S009,Female,Group A,Associate's Degree,,83,47,32
+S010,Female,Group A,Some High School,,79,59,65
+S011,Female,Group C,High School,Completed,84,69,81
+S012,Female,Group D,Master's Degree,,58,73,45
+S013,Female,Group B,Some College,,84,67,64
+S014,Male,Group B,Master's Degree,,72,46,55
+S015,Female,Group A,Some High School,,60,67,68
+S016,Male,Group E,High School,Completed,67,74,57
+S017,Female,Group C,Master's Degree,,57,36,64
+S018,Male,Group C,Master's Degree,,56,39,52
+S019,Female,Group D,High School,,41,61,63
+S020,Female,Group A,Bachelor's Degree,,74,51,71
+S021,Male,Group E,Some College,,55,50,61
+S022,Female,Group C,Some High School,,44,67,38
+S023,Male,Group A,Some High School,,37,63,58
+S024,Female,Group A,Master's Degree,,50,90,51
+S025,Male,Group A,Bachelor's Degree,Completed,62,66,58
+S026,Male,Group C,High School,,45,58,78
+S027,Male,Group C,Some College,Completed,72,47,65
+S028,Female,Group B,Some College,Completed,80,67,68
+S029,Male,Group A,Some High School,,46,60,60
+S030,Female,Group A,Some High School,Completed,61,57,77
+S031,Male,Group D,Some College,,73,55,57
+S032,Male,Group E,Some College,,73,50,64
+S033,Female,Group C,Some High School,Completed,75,50,65
+S034,Male,Group B,Bachelor's Degree,,34,50,65
+S035,Male,Group A,High School,,70,57,51
+S036,Male,Group C,High School,,58,39,49
+S037,Female,Group B,Bachelor's Degree,Completed,49,64,42
+S038,Male,Group A,High School,,49,70,73
+S039,Female,Group C,High School,Completed,65,53,73
+S040,Female,Group C,Associate's Degree,,55,64,64
+S041,Female,Group E,Bachelor's Degree,Completed,87,62,69
+S042,Female,Group E,Some College,,45,44,63
+S043,Male,Group D,Master's Degree,,75,43,49
+S044,Male,Group A,Bachelor's Degree,Completed,97,71,60
+S045,Female,Group D,Some College,Completed,76,53,79
+S046,Male,Group D,Associate's Degree,,60,46,48
+S047,Male,Group B,Associate's Degree,,56,52,52
+S048,Female,Group D,High School,Completed,50,65,71
+S049,Male,Group E,Some High School,,67,68,69
+S050,Male,Group C,Associate's Degree,,37,48,66
+S051,Female,Group C,High School,,75,42,46
+S052,Female,Group A,Associate's Degree,,43,56,59
+S053,Female,Group A,Bachelor's Degree,,52,67,64
+S054,Male,Group E,Master's Degree,Completed,62,49,80
+S055,Female,Group D,High School,,72,68,51
+S056,Male,Group B,Bachelor's Degree,Completed,61,51,57
+S057,Female,Group A,Master's Degree,,40,30,61
+S058,Male,Group E,Master's Degree,,35,59,52
+S059,Female,Group E,High School,,54,68,42
+S060,Male,Group A,Bachelor's Degree,,73,57,73
+S061,Male,Group E,Associate's Degree,,49,44,50
+S062,Female,Group E,Some College,Completed,77,57,55
+S063,Male,Group E,Bachelor's Degree,Completed,68,65,54
+S064,Female,Group A,Associate's Degree,Completed,78,52,71
+S065,Female,Group E,Associate's Degree,Completed,62,65,71
+S066,Male,Group B,Master's Degree,Completed,50,72,82
+S067,Male,Group C,Associate's Degree,Completed,69,67,60
+S068,Male,Group E,Associate's Degree,,63,75,53
+S069,Female,Group A,Bachelor's Degree,Completed,72,68,86
+S070,Male,Group D,Master's Degree,Completed,76,85,72
+S071,Male,Group B,Some High School,Completed,70,75,65
+S072,Female,Group C,High School,Completed,71,59,60
+S073,Male,Group A,Associate's Degree,Completed,60,80,76
+S074,Female,Group C,Associate's Degree,,57,62,34
+S075,Female,Group E,Bachelor's Degree,,58,62,63
+S076,Male,Group B,Some High School,,50,38,61
+S077,Male,Group A,Associate's Degree,Completed,59,47,70
+S078,Female,Group B,Associate's Degree,,71,49,61
+S079,Male,Group D,High School,Completed,90,61,67
+S080,Female,Group C,Some High School,Completed,76,65,68
+S081,Female,Group C,Associate's Degree,,71,62,58
+S082,Female,Group A,High School,,74,57,73
+S083,Male,Group A,Some High School,,68,70,51
+S084,Female,Group E,High School,Completed,68,50,56
+S085,Male,Group C,High School,,43,73,77
+S086,Female,Group A,Master's Degree,Completed,76,74,49
+S087,Male,Group B,Associate's Degree,,64,52,57
+S088,Female,Group C,Bachelor's Degree,,54,83,52
+S089,Female,Group D,Associate's Degree,,41,49,41
+S090,Female,Group D,Some High School,,44,56,58
+S091,Male,Group D,Some College,,72,69,38
+S092,Female,Group D,Bachelor's Degree,,70,78,50
+S093,Female,Group B,Bachelor's Degree,Completed,64,53,64
+S094,Male,Group B,High School,Completed,63,69,79
+S095,Female,Group D,High School,Completed,65,69,53
+S096,Female,Group D,Associate's Degree,Completed,71,74,60
+S097,Male,Group C,Associate's Degree,Completed,60,90,58
+S098,Male,Group A,Associate's Degree,Completed,88,79,58
+S099,Female,Group C,Bachelor's Degree,Completed,54,73,62
+S100,Female,Group A,Some High School,,64,50,62
