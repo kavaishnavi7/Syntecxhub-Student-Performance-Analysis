@@ -2,6 +2,10 @@
 
 An interactive data-analysis project for exploring Mathematics, Reading, and Writing scores, comparing available student groups, and reviewing possible areas for academic support. It includes a Streamlit dashboard, a reproducible analysis script, a Jupyter notebook, and generated output tables and charts.
 
+## Live dashboard
+
+Explore the deployed app on [Streamlit Community Cloud](https://syntecxapp-student-performance-analysis-jajwteyddcvv6dqyufcmel.streamlit.app/).
+
 ## Features
 
 - Validates required dataset columns, converts score fields to numeric values, removes exact duplicate rows, and bounds scores to 0–100.
